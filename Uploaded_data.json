@@ -1,0 +1,34 @@
+{
+    [
+        {
+            "name": "PrathamAsrani",
+            "roll no": 75,
+            "rank": "first",
+            "addressCllg": {
+                "name": "SRCOEM",
+                "Location": "Nagpur",
+                "code": 440014
+            }
+        },
+        {
+            "name": "Niharika",
+            "roll no": 19,
+            "rank": "second",
+            "addressCllg": {
+                "name": "SRCOEM",
+                "Location": "Nagpur",
+                "code": 440014
+            }
+        },
+        {
+            "name": "Sujyot",
+            "roll no": 76,
+            "rank": "third",
+            "addressCllg": {
+                "name": "SRCOEM",
+                "Location": "Nagpur",
+                "code": 440014
+            }
+        }
+    ]
+}
